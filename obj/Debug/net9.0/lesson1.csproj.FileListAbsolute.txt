@@ -1,0 +1,4 @@
+C:\Users\nikus\OneDrive\Рабочий стол\lesson1\obj\Debug\net9.0\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikus\OneDrive\Рабочий стол\lesson1\obj\Debug\net9.0\lesson1.AssemblyInfoInputs.cache
+C:\Users\nikus\OneDrive\Рабочий стол\lesson1\obj\Debug\net9.0\lesson1.AssemblyInfo.cs
+C:\Users\nikus\OneDrive\Рабочий стол\lesson1\obj\Debug\net9.0\lesson1.csproj.CoreCompileInputs.cache
